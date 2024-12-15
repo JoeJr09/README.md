@@ -24,4 +24,4 @@ Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banc
 ---
 
 💡 *"O conhecimento é a chave para o sucesso."*  
-📫 Entre em contato: **seuemail@email.com**
+📫 Entre em contato: **joeljroliveira553@email.com**
