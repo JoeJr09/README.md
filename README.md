@@ -19,8 +19,8 @@ Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banc
 - Planejamento e otimização de consultas SQL.
 
 ## 📂 Meus Projetos:
-- [Aplicativo de Imobiliária](https://github.com/Joel123/AplicativoImobiliaria): Um app Android conectado a MySQL.
-- [Sistema de Gestão de Dados](https://github.com/Joel123/SistemaGestao): Focado em estruturação e modelagem de banco de dados.
+- [Aplicativo de Imobiliária](https://github.com/JoeJr09/AplicativoImobiliaria): Um app Android conectado a MySQL.
+- [Sistema de Gestão de Dados](https://github.com/JoeJr09/SistemaGestao): Focado em estruturação e modelagem de banco de dados.
 
 ---
 
