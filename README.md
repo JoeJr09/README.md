@@ -13,10 +13,6 @@ Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banc
 - **Banco de Dados**: MySQL, PostgreSQL.
 - **Outros**: Git, Docker.
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 
 ## 🌱 O que estou aprendendo agora:
 - Desenvolvimento de aplicativos Android conectados a bancos de dados.
@@ -27,6 +23,11 @@ Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banc
 - [Sistema de Gestão de Dados](https://github.com/Joel123/SistemaGestao): Focado em estruturação e modelagem de banco de dados.
 
 ---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 💡 *"O conhecimento é a chave para o sucesso."*  
 📫 Entre em contato: **joeljroliveira553@email.com**
