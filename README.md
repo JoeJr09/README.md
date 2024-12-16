@@ -28,7 +28,7 @@ Sou estudante de **Ciência da Computação** e aspirante a **Engenheiro de Banc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joel123&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoelJr09&show_icons=true&theme=radical)
 
 
 💡 *"O conhecimento é a chave para o sucesso."*  
